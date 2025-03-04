@@ -1,19 +1,19 @@
 {
     "loaders": [
         {
-            "id": "VALORANT EXTERNAL",
-            "name": "VALORANT EXTERNAL CHAIR",
-            "categoryId": "valorant",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
+            "id": "Force Save",
+            "name": "Force Save",
+            "categoryId": "bo6",
+            "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT1.1.exe",
             "status": "updating",
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "FORTNITE EXTERNAL",
-            "name": "FORTNITE EXTERNAL CHAIR",
-            "categoryId": "fortnite",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
+            "id": "Engine V4",
+            "name": "Engine V4",
+            "categoryId": "bo6",
+            "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/fortnite-external-chair"
@@ -28,8 +28,8 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
         },
         {
-            "id": "BO6 UNLOCK ALL",
-            "name": "BO6 UNLOCK ALL",
+            "id": "Core Engine",
+            "name": "Core Engine",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Auth_NB.exe",
             "status": "online",
@@ -37,10 +37,10 @@
             "productUrl": ""
         },
         {
-            "id": "PROGRESS",
-            "name": "BO6 EXTERNAL PROGRESS",
+            "id": "BOEngine",
+            "name": "BOEngine",
             "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
+            "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG_1.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
