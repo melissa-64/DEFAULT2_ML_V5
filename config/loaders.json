@@ -1,19 +1,19 @@
 {
     "loaders": [
         {
-            "id": "Force Save",
-            "name": "Force Save",
-            "categoryId": "bo6",
-            "imageUrl": "",
+            "id": "VALORANT EXTERNAL",
+            "name": "VALORANT EXTERNAL CHAIR",
+            "categoryId": "valorant",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT1.1.exe",
             "status": "updating",
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
-            "id": "Engine V4",
-            "name": "Engine V4",
-            "categoryId": "bo6",
-            "imageUrl": "",
+            "id": "FORTNITE EXTERNAL",
+            "name": "FORTNITE EXTERNAL CHAIR",
+            "categoryId": "fortnite",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/fortnite-external-chair"
@@ -22,14 +22,59 @@
             "id": "PC OPTIMIZER",
             "name": "IRIS PC OPTIMIZER",
             "categoryId": "others",
-            "imageUrl": "",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
         },
         {
-            "id": "Core Engine",
-            "name": "Core Engine",
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "cs2",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "rust",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "apex",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "mr",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "others",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "BO6 UNLOCK ALL",
+            "name": "BO6 UNLOCK ALL",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Auth_NB.exe",
             "status": "online",
@@ -37,10 +82,10 @@
             "productUrl": ""
         },
         {
-            "id": "BOEngine",
-            "name": "BOEngine",
+            "id": "PROGRESS",
+            "name": "BO6 EXTERNAL PROGRESS",
             "categoryId": "bo6",
-            "imageUrl": "",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG_1.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
